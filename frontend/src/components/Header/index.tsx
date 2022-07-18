@@ -1,4 +1,4 @@
-import logo from "../../assets/img/new-logo.svg";
+import logo from "../../assets/img/red-logo.svg";
 import logoGit from "../../assets/img/github.svg";
 import "./styles.css";
 
