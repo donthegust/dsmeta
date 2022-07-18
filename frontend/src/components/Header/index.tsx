@@ -1,4 +1,4 @@
-import logo from "../../assets/img/logo.svg";
+import logo from "../../assets/img/new-logo.svg";
 import logoGit from "../../assets/img/github.svg";
 import "./styles.css";
 
@@ -8,11 +8,11 @@ function Header() {
             <div className="dsmeta-logo-container">
                 <img src={logo} alt="DSMeta" />
                 <h1>DSMeta</h1>
-                <p>
+                {/* <p>
                     Desenvolvido por <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
-                </p>
+                </p> */}
                 <p>
-                    Reproduzido por <a href="https://github.com/DonTheGust">DonTheGust <img src={logoGit} className="git" /></a>
+                    Desenvolvido por <a href="https://github.com/DonTheGust">DonTheGust <img src={logoGit} className="git" /></a>
                 </p>
             </div>
         </header>

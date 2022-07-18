@@ -14,6 +14,8 @@ header {
 
 .dsmeta-logo-container>img {
     width: 235px;
+    height: 205px;
+    object-fit: cover;
 }
 
 .dsmeta-logo-container h1 {
