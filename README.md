@@ -11,12 +11,12 @@ Um gerenciador de metas para controle de vendas comerciais e notificação de pa
   * React
   * Java
   * Spring Boot
-  * Banco de Dados H2
+  * Banco de Dados H2 (Java)
   * Node 16
   * Yarn
   * Postman (Teste de requisições)
-  * Heroku CLI (nuvem)
-  * Netlify (implantação/deploy) CI/CD
+  * Heroku CLI (Nuvem)
+  * Netlify (Implantação/deploy) CI/CD
   * Twilio (SMS)
   * Git e GitHub (Versionamento)
 
